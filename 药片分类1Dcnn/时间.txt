@@ -1,0 +1,3 @@
+shallow: 1000epoch
+inception: 1000epoch
+resnet 1s 100epoch

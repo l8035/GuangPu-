@@ -1,0 +1,2 @@
+shallow:7s 1000epoch
+inception:8s 1000epoch
